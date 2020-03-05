@@ -11,6 +11,6 @@
 
 |  ID  |                                               Title                                                | Finish Time |
 |------|----------------------------------------------------------------------------------------------------|-------------|
-| 1000 | [A+B_Problem](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT_ACM/1000_A+B Problem.md) | 2020-02-28  |
+| 1000 | [A+B_Problem](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT_ACM/1000_A+B_Problem.md) | 2020-02-28  |
 | 1001 | [密码截获](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT_ACM/1001_密码截获.md)       | 2020-02-29  |
 | 1002 | 数字游戏                                                                                           | 2020-03-01  |
