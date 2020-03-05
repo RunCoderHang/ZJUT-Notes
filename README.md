@@ -1,14 +1,13 @@
 [TOC]
 
+
 #### ZJUT Online Judge
 
 |  ID  |                                      Title                                      | Finish Time |
 |------|---------------------------------------------------------------------------------|-------------|
-| 1002 | [最小内积](https://github.com/RunCoderHang/ZJUT-Notes/ZJUT_OJ/1002_最小内积.md) | 2020-3-3    |
+| 1002 | [最小内积](https://github.com/RunCoderHang/ZJUT-Notes/ZJUT_OJ/1002_最小内积.md) | 2020-03-03  |
 
 #### ZJUT Online Programming Space  
-
-* ACM的题还是比较费脑子的。
 
 |  ID  |                                         Title                                          | Finish Time |
 |------|----------------------------------------------------------------------------------------|-------------|
