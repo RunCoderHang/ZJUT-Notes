@@ -13,8 +13,9 @@
 | 1001 | [密码截获](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-ACM/1001-密码截获.md)       | 2020-02-29  |
 | 1002 | 数字游戏                                                                                           | 2020-03-01  |
 
+
+## Contact me
+
 <div align="center">
-    <hr style="height:1px;"/>
-    <br>
     <img width="200px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/wxgzh-hang.png"></img>
 </div>
