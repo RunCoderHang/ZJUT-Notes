@@ -14,7 +14,7 @@
 | 1002 | 数字游戏                                                                                           | 2020-03-01  |
 
 <div align="center">
-    <hr>
+    <hr style="height: 1px;">
     <br>
-    <img width="320px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/wxgzh-hang.png"></img>
+    <img width="300px" src="https://github.com/RunCoderHang/LeetCode-Notes/blob/master/image/wxgzh-hang.png"></img>
 </div>
