@@ -4,6 +4,7 @@
 |  ID  |                                            Title                                            | Finish Time |
 |------|---------------------------------------------------------------------------------------------|-------------|
 | 1002 | [最小内积](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1002-最小内积.md) | 2020-03-03  |
+| 1414 | [排序](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1414-排序.md)         | 2020-03-07  |
 
 ## ZJUT Online Programming Space  
 
