@@ -1,10 +1,12 @@
 
 ## ZJUT Online Judge
 
-|  ID  |                                            Title                                            | Finish Time |
-|------|---------------------------------------------------------------------------------------------|-------------|
-| 1002 | [最小内积](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1002-最小内积.md) | 2020-03-03  |
-| 1414 | [排序](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1414-排序.md)         | 2020-03-07  |
+|  ID  |                                                Title                                                | Finish Time |
+|------|-----------------------------------------------------------------------------------------------------|-------------|
+| 1002 | [最小内积](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1002-最小内积.md)         | 2020-03-03  |
+| 1414 | [排序](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1414-排序.md)                 | 2020-03-07  |
+| 1347 | [最大公约数](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1347-最大公约数.md)     | 2020-03-08  |
+| 1502 | [KK看到了新闻](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1502-KK看到了新闻.md) | 2020-03-08  |
 
 ## ZJUT Online Programming Space  
 
