@@ -1,16 +1,21 @@
 
 ## ZJUT Online Judge
 
-|  ID  |                                                Title                                                | Finish Time | Status |
-|------|-----------------------------------------------------------------------------------------------------|-------------|--------|
-| 1002 | [最小内积](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1002-最小内积.md)         | 2020-03-03  | AC     |
-| 1414 | [排序](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1414-排序.md)                 | 2020-03-07  | AC     |
-| 1347 | [最大公约数](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1347-最大公约数.md)     | 2020-03-08  | AC     |
-| 1502 | [KK看到了新闻](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1502-KK看到了新闻.md) | 2020-03-08  | AC     |
-| 1501 | [KK的秘密通信](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1501-KK的秘密通信.md) | 2020-03-09  | AC     |
-| 1368 | [合并列表](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1368-合并列表.md)         | 2020-03-10  | WA 50% |
-| 1412 | [画口](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1412-画口.md)                 | 2020-03-11  | AC     |
-| 1500 | [卡特兰数](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1500-卡特兰数.md)         | 2020-03-11  | AC     |
+|  ID  |                                                    Title                                                    | Finish Time | Status |
+|------|-------------------------------------------------------------------------------------------------------------|-------------|--------|
+| 1002 | [最小内积](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1002-最小内积.md)                 | 2020-03-03  | AC     |
+| 1414 | [排序](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1414-排序.md)                         | 2020-03-07  | AC     |
+| 1347 | [最大公约数](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1347-最大公约数.md)             | 2020-03-08  | AC     |
+| 1502 | [KK看到了新闻](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1502-KK看到了新闻.md)         | 2020-03-08  | AC     |
+| 1501 | [KK的秘密通信](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1501-KK的秘密通信.md)         | 2020-03-09  | AC     |
+| 1368 | [合并列表](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1368-合并列表.md)                 | 2020-03-10  | WA 50% |
+| 1412 | [画口](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1412-画口.md)                         | 2020-03-11  | AC     |
+| 1500 | [卡特兰数](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1500-卡特兰数.md)                 | 2020-03-11  | AC     |
+| 1341 | [解密](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1341-解密.md)                         | 2020-03-19  | AC     |
+| 1356 | [懒洋洋小明](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1356-懒洋洋小明.md)             | 2020-03-19  | AC     |
+| 1358 | [奇偶数分离](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1358-奇偶数分离.md)             | 2020-03-19  | AC     |
+| 1361 | [计算两点间的距离](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1361-计算两点间的距离.md) | 2020-03-19  | AC     |
+| 1367 | [Palindrome](https://github.com/RunCoderHang/ZJUT-Notes/blob/master/ZJUT-OJ/1367-Palindrome.md)             | 2020-03-19  | AC     |
 
 ## ZJUT Online Programming Space  
 
